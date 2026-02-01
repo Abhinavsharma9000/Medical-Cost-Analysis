@@ -17,7 +17,7 @@ Medical costs are influenced by several factors including patient demographics, 
 - **Machine Learning** – Linear Regression, Model Evaluation Metrics
 - **Data Visualization** – for pattern and outlier detection
 
-## 🔍 Key Insights
+## 🔍 Key Insights ##
 
 - Smokers have significantly higher insurance charges compared to non-smokers.
 - Age and BMI have a positive correlation with medical costs.
@@ -40,3 +40,4 @@ Medical-Cost-Analysis/
 ├── visuals/ # Generated charts and graphs
 ├── model/ # Trained models and evaluation results
 └── README.md # Project overview and documentation
+
