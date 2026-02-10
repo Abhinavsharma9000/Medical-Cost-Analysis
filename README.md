@@ -10,7 +10,7 @@ Medical costs are influenced by several factors including patient demographics, 
 - Identified key drivers of medical expenses such as **age, BMI, smoking status, and region**.
 - Built a **predictive regression model** to estimate insurance costs based on various patient attributes.
 
-## 📊 Technologies Used
+## 📊 Technologies Used##
 
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 - **Jupyter Notebook** for interactive development
