@@ -1,4 +1,4 @@
-##🏥 Medical Cost Analysis ##
+🏥 Medical Cost Analysis ##
 
 This project explores and analyzes medical insurance cost data to identify key factors that influence healthcare expenses. The objective is to build insights that can help insurance companies make data-driven decisions and optimize healthcare resource allocation.
 
